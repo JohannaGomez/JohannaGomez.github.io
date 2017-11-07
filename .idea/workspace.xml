@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f49c123-642e-4fed-9725-23843d6ae509" name="Default" comment="typing resume">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/css/custom.css" />
+    <list default="true" id="1f49c123-642e-4fed-9725-23843d6ae509" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html" afterPath="$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
               <caret line="200" column="50" lean-forward="false" selection-start-line="200" selection-start-column="50" selection-end-line="200" selection-end-column="50" />
@@ -27,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -126,16 +125,6 @@
             <path>
               <item name="personal site" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal site" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal site" type="462c0819:PsiDirectoryNode" />
-              <item name="startbootstrap-creative-3.3.7-1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +251,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510067617464</updated>
-      <workItem from="1510067619173" duration="13373000" />
+      <workItem from="1510067619173" duration="13437000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Initial Commit&quot;">
       <created>1510070665508</created>
@@ -278,11 +267,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510079431169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="weather pic loaded">
+      <created>1510087836779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510087836780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13373000" />
+    <option name="totallyTimeSpent" value="13437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -325,7 +321,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Initial Commit&quot;" />
     <MESSAGE value="typing resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="typing resume" />
+    <MESSAGE value="weather pic loaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="weather pic loaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -340,7 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
@@ -416,21 +413,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/index.html">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="200" column="50" lean-forward="false" selection-start-line="200" selection-start-column="50" selection-end-line="200" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-3.3.7-1/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
